@@ -1,0 +1,3 @@
+[submodule "hxcpp"]
+	path = hxcpp
+	url = https://github.com/HaxeFoundation/hxcpp.git
